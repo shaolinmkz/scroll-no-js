@@ -1,5 +1,7 @@
 # No Scroll Effect
 
-- Enable Experimental Web Platform features on chrome to see effect [enable](chrome://flags/)
-- Insight ref => [Youtube](https://www.youtube.com/watch?v=EkEyA4RtfNE)
+- Animation time line
+- Enable Experimental Web Platform features on chrome to see effect `chrome://flags`
+- Insight ref => [Link](https://www.youtube.com/watch?v=EkEyA4RtfNE)
 
+![](https://res.cloudinary.com/shaolinmkz/image/upload/v1615573955/Random-Icons/scroll-no-js.gif)
