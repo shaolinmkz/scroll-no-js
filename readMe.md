@@ -1,4 +1,4 @@
-# No Scroll Effect
+# Scroll Anime No JS
 
 - Animation time line
 - Enable Experimental Web Platform features on chrome to see effect `chrome://flags`
